@@ -1,7 +1,7 @@
 ---
-title: Welcome! How it's going? 
+title: Welcome, world 
 date: 2023-09-21 15:58:00 +/-0000
-categories: [Welcome]
+categories: [welcome]
 tags: [welcome, blog]
 ---
 
