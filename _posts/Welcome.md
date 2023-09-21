@@ -5,4 +5,4 @@ Here, you'll find resources, notes, and documentation on various topics related 
 
 Feel free to explore the materials in each section and use them as supplementary resources for your self-learning. 
 
-*What are you waiting for, start studying!*
+**What are you waiting for, start studying!**
