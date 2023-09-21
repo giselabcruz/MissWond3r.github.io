@@ -1,6 +1,6 @@
 ---
 title: Why Git Is Your Best Friend as a Developer? 
-date: 2023-09-21 19:48:00 +/-0000
+date: 2023-09-21 18:48:00 +/-0000
 categories: [git]
 tags: [git]
 ---
