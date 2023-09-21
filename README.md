@@ -1,6 +1,6 @@
 # ABOUT THIS BLOG
 
-Welcome! This blog is dedicated to organizing and sharing theoretical materials for our Data Science Application Development classes.
+Welcome! This [blog](https://misswond3r.github.io/) is dedicated to organizing and sharing theoretical materials for our Data Science Application Development classes.
 
 Here, you'll find resources, notes, and documentation on various topics related to developing applications for data science.
 
