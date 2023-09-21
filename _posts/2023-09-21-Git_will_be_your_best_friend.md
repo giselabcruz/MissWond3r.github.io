@@ -4,7 +4,7 @@ date: 2023-09-21 18:48:00 +/-0000
 categories: [git]
 tags: [git]
 ---
-# Why Git Is Your Best Friend as a Developer?
+
 ![git](/assets/img/img.png)
 
 In the world of coding, there's one tool you'll grow to love: Git. It's like your trusty sidekick on your journey as a developer. In this blog post, we'll explain why Git will be your best friend in your career.
