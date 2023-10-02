@@ -5,6 +5,8 @@ categories: [ssh,git]
 tags: [git,keys,ssh]
 ---
 
+![git](/assets/img/ssh.png)
+
 The SSH (Secure Shell) protocol has earned its reputation as a fortress of security in the digital landscape.
 Its cryptographic encryption and authentication mechanisms ensure that data remains confidential and tamper-proof during transmission.
 One of SSH's standout features is its use of SSH keys for authentication, a method far more secure than traditional password-based logins.
