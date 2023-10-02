@@ -9,7 +9,7 @@ Here, you'll find resources, notes, and documentation on various topics related 
 1. Git will be your best friend
 2. Key differences between Git and GitHub
 3. Git is unhappy with CRLF
-4. Why you shouldn't comment your code excessively
+4. Code Comments: When Less is More
 5. SSH protocol
 6. Encoding: Your Future Headache
 7. Gitflow and workflow methodology
