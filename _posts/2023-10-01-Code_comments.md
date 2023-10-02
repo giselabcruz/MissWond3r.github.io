@@ -1,5 +1,5 @@
 ---
-title: Code Comments: When Less is More
+title: When Less is More in Comments
 date: 2023-10-01 09:10:00 +/-0000
 categories: [code,comments]
 tags: [code,comments]
