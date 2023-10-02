@@ -5,6 +5,8 @@ categories: [code,comments]
 tags: [code,comments]
 ---
 
+![git](/assets/img/less_is_more.png)
+
 Code comments serve as a double-edged sword. 
 On one hand, they can be invaluable for documenting code and helping developers understand intricate logic.
 On the other hand, excessive comments can clutter code, making it harder to maintain and comprehend.
